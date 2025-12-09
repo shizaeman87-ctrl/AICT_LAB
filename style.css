@@ -1,0 +1,30 @@
+body {
+    background-color:#FFECC0;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+   color: #FF5555;
+}
+
+h2 {
+   color: #FF5555;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+a{
+    margin-top: 20rem;
+    margin-left: 8rem;
+    color: #ffff;
+    background-color: #FF5555; 
+    padding: 5px 10px;        
+    text-decoration: none; 
+    border-radius: 1rem;
+
+}
+p
+{
+       color: #FF5555;
+       text-align: center;
+    margin-bottom: 5rem;
+}
